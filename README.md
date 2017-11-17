@@ -11,8 +11,7 @@ the boot manager grub is always no showing, no matter what setting in windows
 certification  
 automatically,manual setting is needed:
 
-according to [this](https://askubuntu.com/questions/771455/dual-boot-ubuntu  
--with-windows-on-acer-aspire/771749#771749 "this"):
+according to [this](https://askubuntu.com/questions/771455/dual-boot-ubuntu -with-windows-on-acer-aspire/771749#771749 "this"):
 
 
     Press F2 to enter into BIOS and do following:
@@ -50,4 +49,3 @@ install `fonts-wqy-microhei `
 
 ### Dock
 install `cairo-dock`
-
