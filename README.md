@@ -49,5 +49,3 @@ install `fonts-wqy-microhei `
 
 ### Dock
 install `cairo-dock`
-http://github.com - automatic!
-[GitHub](http://github.com)
