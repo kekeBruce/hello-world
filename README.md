@@ -1,6 +1,6 @@
 # Ubuntu 14.04 setup
 
-platform : Acer E5-473G-56cs
+platform : Acer E5-473G
 
 ## boot manager issue
 
